@@ -1,4 +1,4 @@
-# 🔐 Password Generator
+# Password Generator
 
 A simple and user-friendly **Password Generator** built using **Python** for backend logic and a **web-based frontend** using HTML, CSS, and JavaScript.
 
@@ -6,7 +6,7 @@ This project allows users to generate strong random passwords by specifying the 
 
 ---
 
-## 🚀 Features
+## Features
 
 - Generate secure random passwords
 - User can choose:
@@ -19,7 +19,7 @@ This project allows users to generate strong random passwords by specifying the 
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - **Python** – Password generation logic (backend)
 - **HTML** – Structure of the web interface
@@ -29,7 +29,7 @@ This project allows users to generate strong random passwords by specifying the 
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 Password_Generator/
 │
